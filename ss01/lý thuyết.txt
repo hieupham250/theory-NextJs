@@ -1,0 +1,18 @@
+1. thư viện (library) - frameword:
+    * library:
+        - chỉ là những hàm (function)  hoặc class thực hiện chức năng cụ thể có thể tái sử dụng
+
+    * frameword (nextJs, vuejs, angular):
+        - tập hợp những thư viện giúp tạo ra khung chương trình giúp tạo ra những ứng dụng web nhanh chóng
+
+2. nextJs-intro:
+    - là 1 react frameword dùng để xây dựng các ứng dụng web full stack
+    - tạo ra khung chương trình mẫu để phát triển các ứng dụng web
+
+3. tạo dự án với nextJSs:
+    - phiên bản thích hợp nodejs từ 18.7 trở lên
+
+4. cấu trúc:
+
+
+5. tạo trang với nextJs:
